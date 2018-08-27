@@ -1,6 +1,6 @@
 {
   "name": "vue-chara-builder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "You can generate sentence, as if it is building now.",
   "main": "dist/vue-chara-builder.js",
   "author": "SLEZOIDS",
@@ -10,8 +10,8 @@
     "vue": "^2.5.17"
   },
   "repository": {
-  "type": "git",
-  "url": "https://github.com/SLEAZOIDS/vue-chara-builder"
+    "type": "git",
+    "url": "https://github.com/SLEAZOIDS/vue-chara-builder"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.4",
