@@ -28,6 +28,9 @@
     "webpack-merge": "^4.1.0",
     "webpack-node-externals": "^1.6.0"
   },
+  "files": [
+    "dist/vue-chara-builder.min.js"
+  ],
   "scripts": {
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   }

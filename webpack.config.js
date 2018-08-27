@@ -37,7 +37,7 @@ module.exports = [
   {
     entry: path.resolve(__dirname + '/src/vue-chara-builder.vue'),
     output: {
-      filename: 'vue-chara-builder.js',
+      filename: 'vue-chara-builder.min.js',
       libraryTarget: 'umd',
       library: 'vue-chara-builder',
       umdNamedDefine: true
